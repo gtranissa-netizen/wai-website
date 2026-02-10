@@ -1,4 +1,4 @@
-# Web Accessibility Initiative (WAI) Website
+# Web Accessibility Initiative (WAI) Website's 
 
 The [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) develops standards and support materials to help you understand and implement accessibility.
 
